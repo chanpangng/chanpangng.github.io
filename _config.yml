@@ -38,7 +38,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-8170-1110"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Chan-Pang-Ng"
   scopus           : # URL
 
   # Repositories and software development
