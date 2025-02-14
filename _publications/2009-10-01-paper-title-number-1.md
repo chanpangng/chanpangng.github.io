@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021-03
+date: 2021-03-01
 venue: 'Geophysical Research Letters'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020GL090620)'
