@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in School of Physics, Peking University, 2023
 * B.S. in School of Physics, Peking University, 2018
+
 
 Work experience
 ======
@@ -26,23 +28,27 @@ Work experience
   * Project: Thunderstorm and Hailstorm
   * Supervisor: [Qinghong Zhang](https://faculty.pku.edu.cn/zhangqinghong/zh_CN/index.htm)
 
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
 Additional Activities:
 ======
