@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CP's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in School of Physics, Peking University, 2023
+* B.S. in School of Physics, Peking University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2024-present: Postdoctoral Researcher
+  * University of Washington
+  * Research Targets: Wildfires, Hailstorms, and Heavy Rainfall
+  * Supervisors: [Lei-yung Ruby Leung](https://www.pnnl.gov/people/lai-yung-ruby-leung), [Qiang fu](https://atmos.washington.edu/~qfu/), [John M. Wallace](https://www.atmos.washington.edu/wallace/), and [Qinghong Zhang](https://www.researchgate.net/profile/Qinghong-Zhang-6)
+    
+* 2023-2024: Postdoc
+  * Peking University
+  * Project: Thunderstorm and Hailstorm
+  * Supervisor: [Qinghong Zhang](https://faculty.pku.edu.cn/zhangqinghong/zh_CN/index.htm)
 
 Publications
 ======
@@ -59,6 +44,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Additional Activities:
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer in Conference Organization
+  * The Fourth National Mesoscale Meteorology Forum (Hangzhou, China, 2022)
+  * 90th Anniversary of Atmospheric Sciences at Peking University & The Third Workshop of Severe Weather International Consortium (Beijing, China, 2019)
+  * AOGS 13th Annual Meeting (Beijing, China, 2016)
+* Association of Pacific Rim Universities (APRU) Student Global Climate Change Simulation (2021)
+* Local Conference of Youth (LCOY), Macau (2022)
