@@ -21,7 +21,7 @@ Feel free to connect with me via [email](cpng@uw.edu).
 Research Interests
 ======
 - **Extreme Weather and Climate**
--- Heavy Rainfall
--- Thunderstorms
--- Hailstorms
--- Wildfires
+  1. Heavy Rainfall
+  2. Thunderstorms
+  3. Hailstorms
+  4. Wildfires
