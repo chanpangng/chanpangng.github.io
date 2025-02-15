@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-
+======
 Education
 ======
 * Ph.D in School of Physics, Peking University, 2023
 * B.S. in School of Physics, Peking University, 2018
 
-
+======
 Work experience
 ======
 * 2024-present: Postdoctoral Researcher
